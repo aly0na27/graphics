@@ -184,6 +184,7 @@ void display() {
     glFlush();
 }
 
+
 // Функция обновления анимации
 void update(int value) {
     angleSun -= speed;
